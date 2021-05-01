@@ -1,4 +1,4 @@
-# bhushang.dev
+# dickson.dev
 
 ## Build Setup
 
